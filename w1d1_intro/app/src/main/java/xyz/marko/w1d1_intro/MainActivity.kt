@@ -72,6 +72,6 @@ fun MainScaffold() {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun MainScaffoldPreview() {
   W1d1_introTheme { MainScaffold() }
 }
