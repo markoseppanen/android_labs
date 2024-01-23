@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">w1d1 Intro Labra</string>
+    <string name="hello_world">Hei Maailma!</string>
+    <string name="goodbye_darkness">Hyvästi Pimeys!</string>
+    <string name="click_me">Click Me!</string>
+</resources>
