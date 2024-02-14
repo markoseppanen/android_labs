@@ -4,4 +4,5 @@
     <string name="hello_world">Hei Maailma!</string>
     <string name="goodbye_darkness">Hyvästi Pimeys!</string>
     <string name="click_me">Click Me!</string>
+    <string name="hello_name">Hei %1$s!</string>
 </resources>
